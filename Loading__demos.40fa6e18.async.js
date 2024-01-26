@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_zhonghe_horse=self.webpackChunk_zhonghe_horse||[]).push([[161,708],{90624:function(s,o,n){n.r(o);var _=n(67294),u=n(16922),t=n(85893),h=function(){function e(){(0,u.LoadingShow)(),setTimeout(function(){(0,u.LoadingHide)()},3e3)}return(0,t.jsx)(u.Button,{onClick:e,children:"\u52A0\u8F7D\u52A8\u753B"})};o.default=h}}]);
